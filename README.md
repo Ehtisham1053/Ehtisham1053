@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ehtisham1053
-- 👀 I’m interested in data engineering and python.
-- 🌱 I’m currently learning pyton and SQL.
-- 💞️ I’m looking to collaborate on python and data engineering projects.
+- 👀 I’m interested in Machine learning and Artificial intelligence.
+- 🌱 I’m currently learning machine learning  and deep learning.
+- 💞️ I’m looking to collaborate on Data science and Artificial intelligence projects.
 - 📫 Reach me on 2020n08248@gmail.com or +923081061171.
 
 <!---
