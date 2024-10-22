@@ -1,8 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Ehtisham Afzal</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtisham1053&label=Profile%20views&color=0e75b6&style=flat" alt="ehtisham1053" /> </p>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.XPFvMjs9ACIoKZExoIhvWAHaE8?rs=1&pid=ImgDetMain")
+
+<img align="right" width="400" src="https://th.bing.com/th/id/R.14cbc10e848a3e5e794c11b57bf1ba3c?rik=%2fGT3uk5zHl%2fN8g&pid=ImgRaw&r=0" alt="coding">
 
 - 🔭 I’m currently working on **Machine learning and Deep learning**
 
