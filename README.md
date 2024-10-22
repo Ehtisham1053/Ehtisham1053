@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **2020n08248@gmail.com**
 
-- - 📫 How to reach me **03081061171**
+- 📫 How to reach me **03081061171**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
