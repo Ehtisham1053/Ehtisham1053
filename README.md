@@ -1,4 +1,4 @@
-# 🚀 Ehtisham Afzal | Machine Learning Engineer | AI Enthusiast  
+# 🚀 Ehtisham Afzal | Machine Learning Engineer
 
 <p align="right">
 
