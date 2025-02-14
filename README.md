@@ -1,4 +1,5 @@
-# 🚀 Ehtisham Afzal | Machine Learning Engineer
+# 🚀 Ehtisham Afzal 
+||| Machine Learning Engineer
 
 <p align="right">
 
