@@ -23,7 +23,7 @@ I’m a **Data Scientist & ML Engineer** with hands-on experience building end-t
 
 ---
 
-## 📁 Selected Projects
+## 📁 Top Projects
 
 ### Web & Software
 - **Medical Checkup Appointment Web App** — Scheduling platform with user auth, dashboards and admin management. *(Flask, Python, SQL)*  
