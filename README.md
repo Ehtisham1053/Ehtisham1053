@@ -16,7 +16,7 @@ I’m a **Data Scientist & ML Engineer** with hands-on experience building end-t
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### 🔬 Machine Learning & Deep Learning
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-4B0082?style=flat&logo=neuralnetworks)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=white)
@@ -72,14 +72,14 @@ CGPA: **3.3**
 ## 📬 Connect & Portfolio
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ehtishamafzal14@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-afzal-032009342) [![Portfolio](https://img.shields.io/badge/Portfolio-00AEEF?style=flat&logo=web&logoColor=white)](https://www.ehtisham.online)  
 
-**GitHub:** https://github.com/Ehtisham1053 • **Phone:** +92-308-1061171
+• **Phone:** +92-308-1061171
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehtisham1053&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtisham1053&theme=radical" alt="GitHub Streak" width="48%"/>
+  
 </p>
 
 ---
