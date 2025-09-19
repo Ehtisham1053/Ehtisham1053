@@ -1,6 +1,6 @@
 # 🚀 Ehtisham Afzal — Data Scientist & Machine Learning Engineer
 
-<p align="right">
+<p align="center">
   <img src="https://plus.unsplash.com/premium_photo-1682124651258-410b25fa9dc0?q=80&w=1621&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="420" height="220" alt="AI Banner">
 </p>
 
